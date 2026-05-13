@@ -1,0 +1,8 @@
+{
+  "name": "ex24-api-crud-produtos",
+  "version": "1.0.0",
+  "description": "Exercício 24 — API CRUD de Produtos",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
